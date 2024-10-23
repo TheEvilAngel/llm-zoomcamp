@@ -119,7 +119,10 @@ docker run -it \
     -p 9300:9300 \
     -e "discovery.type=single-node" \
     -e "xpack.security.enabled=false" \
+    docker.elastic.co/elasticsearch/elasticsearch:8.4.3
     elasticsearch:8.4.3
+    
+docker run -it --rm docker.elastic.co/elasticsearch/elasticsearch:8.4.3
 ```
 
 Index settings:
