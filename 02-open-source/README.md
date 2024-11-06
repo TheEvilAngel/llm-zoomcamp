@@ -27,7 +27,7 @@ In this module, we'll look at using open-source LLMs instead.
 * Creating an instance with a GPU
 
 ```bash
-pip install -U transformers accelerate bitsandbytes sentencepiece
+pip install transformers==4.30.0 accelerate==0.17.0 bitsandbytes==0.40.0 sentencepiece==0.1.96
 ```
 
 Links:
