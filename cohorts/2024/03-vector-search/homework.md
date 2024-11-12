@@ -31,7 +31,7 @@ What's the first value of the resulting vector?
 
 * -0.24
 * -0.04
-* 0.07
+* 0.078
 * 0.27
 
 
